@@ -1,0 +1,12 @@
+body {
+	font-family: Consolas;
+}
+
+h1{
+	text-align: center;
+}
+
+#container {
+	margin-left: 40px;
+	margin-top: 30px;
+}
