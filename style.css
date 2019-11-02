@@ -1,6 +1,7 @@
 body
 {
     font-family: Calibri;
+    font-size: 20px;
 }
 
 .container
@@ -15,6 +16,7 @@ body
 .logo
 {
   text-align: center;
+  font-size: 30px;
 }
 
 .tresc
@@ -49,6 +51,7 @@ a
 {
   color: #f4f4f4;
   text-decoration:none;
+  font-size: 20px;
 }
 a:visited
 {
